@@ -25,12 +25,13 @@
      6. Allow to stand for ten minutes
      7. Serve
 ## description list
- - Description lists use one set of <dl></dl> tags wrapped around one or more groups of <dt></dt> (name) and <dd></dd> (value) tags. You    must pair at least one <dt></dt> with at least one <dd></dd>, and the <dt></dt> should always come first in the source order.
+ - Description lists use one set of tags wrapped around one or more groups of name tags and value. You must pair at least one with at least one and the should always come first in the source order.
  <dl>
   <dt>Name</dt>
   <dd>Enter the name </dd>  
 </dl>
+
 # Comments 
  - HTML comments are not displayed in the browser, but they can help document your HTML source code.
- ## Syntax
+## Syntax
    <!-- Write your comments here -->
