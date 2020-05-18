@@ -34,4 +34,4 @@
 # Comments 
  - HTML comments are not displayed in the browser, but they can help document your HTML source code.
 ## Syntax
-   <!-- Write your comments here -->
+  * <!-- Write your comments here -->
